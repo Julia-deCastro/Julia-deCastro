@@ -19,8 +19,6 @@
   src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Julia-Postgres" height="30" width="40" 
   src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
-  <img align="center" alt="Julia-C++" height="30" width="40" 
-  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fc_6132222&psig=AOvVaw2oSfNB7miu55WZzbGEbhzJ&ust=1708730917009000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCOm-yMwIQDFQAAAAAdAAAAABAE">
   <img align="center" alt="Julia-Notion" height="30" width="40" 
   src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg">
 </div>
@@ -29,7 +27,7 @@
 <div>
   <a href="https://github.com/Julia-deCastro">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-deCastro&layout=compact&langs_count=7&theme=radical"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Julia-deCastro&rank_icon=github&show_icons=true&show=prs_merged_percentage&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Julia-deCastro&rank_icon=github&show_icons=true&show=prs_merged_percentage&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 📫 Sinta-se livre para entrar em contato
