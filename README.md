@@ -6,9 +6,9 @@
 
 ## ⚡ GitHub Status
 <div>
-  <a href="https://github.com/Eduardo-JP-Ferreira">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-JP-Ferreira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-JP-Ferreira&rank_icon=github&show_icons=true&show=prs_merged_percentage&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Julia-deCastro">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-deCastro&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Julia-deCastro&rank_icon=github&show_icons=true&show=prs_merged_percentage&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 📫 Sinta-se livre para entrar em contato
