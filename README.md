@@ -19,6 +19,8 @@
   src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Julia-Postgres" height="30" width="40" 
   src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
+  <img align="center" alt="Julia-C++" height="30" width="40" 
+  src="https://github.com/Julia-deCastro/icons-svg/blob/master/c.svg">
   <img align="center" alt="Julia-Notion" height="30" width="40" 
   src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg">
 </div>
