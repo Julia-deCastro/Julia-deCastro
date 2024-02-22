@@ -1,6 +1,6 @@
 ### Olá, me chamo Júlia. Muito prazer!👋
 
-- 🔭 Atualmente trabalho com Front-end e Back-end utilizando principalmente React e NodeJs.
+- 🔭 Atualmente trabalho com Front-end e Back-end utilizando, principalmente, React e NodeJs.
 - 🌱 Curso o oitavo período de Engenharia de Controle e Automação.
 - 🎼 Hobbies: Sou apaixonada por música, já fiz um curso durante 7 anos. Toco flauta e violão.
 
@@ -8,7 +8,7 @@
   <img align="center" alt="Julia-Js" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julia-NodeJs" height="30" width="40"     
-  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Julia-React" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Julia-HTML" height="30" width="40" 
