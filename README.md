@@ -1,4 +1,4 @@
-### Olá, me chamo Júlia. Muito prazer!👋
+## Olá, me chamo Júlia. Muito prazer!👋
 
 - 🔭 Atualmente trabalho com Front-end e Back-end utilizando, principalmente, React e NodeJs.
 - 🌱 Curso o oitavo período de Engenharia de Controle e Automação.
