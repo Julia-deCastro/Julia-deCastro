@@ -17,7 +17,7 @@
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julia-MySql" height="30" width="40" 
   src="https://github.com/Julia-deCastro/icons-svg/blob/master/mysql-logo.svg">
-  <div style="display: inline_block; margin-left: "5%";">
+  <div style="margin-left: "5%";">
   <img align="center" alt="Julia-Postgres" height="30" width="40"
   src="https://github.com/Julia-deCastro/icons-svg/blob/master/postgresql.svg">
   <img align="center" alt="Julia-C++" height="30" width="40" 
