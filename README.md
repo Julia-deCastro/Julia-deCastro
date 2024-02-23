@@ -4,7 +4,7 @@
 - 🌱 Curso o oitavo período de Engenharia de Controle e Automação.
 - 🎼 Hobbies: Sou apaixonada por música, já fiz um curso durante 7 anos. Toco flauta e violão.
 
-<div style="display: inline_block"><br>
+<div style="display: flex; align-items: center; flex-direction: row;"><br>
   <img align="center" alt="Julia-Js" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julia-NodeJs" height="30" width="40"     
