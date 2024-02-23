@@ -4,7 +4,7 @@
 - 🌱 Curso o oitavo período de Engenharia de Controle e Automação.
 - 🎼 Hobbies: Sou apaixonada por música, já fiz um curso durante 7 anos. Toco flauta e violão.
 
-<div style="display: flex; align-items: center; flex-direction: row;"><br>
+<div style="display: flex; align-items: center"><br>
   <img align="center" alt="Julia-Js" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julia-NodeJs" height="30" width="40"     
@@ -17,14 +17,12 @@
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julia-MySql" height="30" width="40" 
   src="https://github.com/Julia-deCastro/icons-svg/blob/master/mysql-logo.svg">
-  <div style="margin-left: "5%";">
   <img align="center" alt="Julia-Postgres" height="30" width="40"
   src="https://github.com/Julia-deCastro/icons-svg/blob/master/postgresql.svg">
   <img align="center" alt="Julia-C++" height="30" width="40" 
   src="https://github.com/Julia-deCastro/icons-svg/blob/master/c.svg">
   <img align="center" alt="Julia-Notion" height="30" width="40" 
   src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg">
- </div>
 </div>
 
 ## ⚡ GitHub Status
