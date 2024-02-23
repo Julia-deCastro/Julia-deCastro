@@ -1,7 +1,7 @@
 ## Olá, me chamo Júlia. Muito prazer!👋
 
 - 🔭 Atualmente trabalho com Front-end e Back-end utilizando, principalmente, React e NodeJs.
-- 🌱 Curso o oitavo período de Engenharia de Controle e Automação.
+- 🌱 Curso o oitavo período de Engenharia de Controle e Automação na UFMG.
 - 🎼 Hobbies: Sou apaixonada por música, já fiz um curso básico durante 7 anos. Toco flauta e violão.
 
 <div style="display: flex; align-items: center"><br>
