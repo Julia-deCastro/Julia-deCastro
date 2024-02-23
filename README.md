@@ -16,9 +16,9 @@
   <img align="center" alt="Julia-CSS" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julia-MySql" height="30" width="40" 
-  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+  src="https://github.com/Julia-deCastro/icons-svg/blob/master/mysql-logo.svg">
   <img align="center" alt="Julia-Postgres" height="30" width="40" 
-  src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
+  src="https://github.com/Julia-deCastro/icons-svg/blob/master/postgresql.svg">
   <img align="center" alt="Julia-C++" height="30" width="40" 
   src="https://github.com/Julia-deCastro/icons-svg/blob/master/c.svg">
   <img align="center" alt="Julia-Notion" height="30" width="40" 
