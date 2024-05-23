@@ -1,6 +1,6 @@
 ## Olá, me chamo Júlia. Muito prazer!👋
 
-- 🔭 Atualmente trabalho com desenvolvedora fullstack, na dti digital.
+- 🔭 Atualmente trabalho como desenvolvedora full-stack, na dti digital.
 - 💼 Trabalho com React, Typescript, .net, C#, SQL Server entre outras.
 - 🌱 Curso o oitavo período de Engenharia de Controle e Automação na UFMG.
 - 🎼 Hobbies: Sou apaixonada por música, já fiz um curso básico durante 7 anos. Toco flauta e violão.
