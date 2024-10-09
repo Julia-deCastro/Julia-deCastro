@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como desenvolvedora full-stack na dti digital.
 - 💼 Trabalho com React, Typescript, .net, C#, SQL Server entre outras tecnologias.
-- 🌱 Curso o oitavo período de Engenharia de Controle e Automação na UFMG.
+- 🌱 Curso o nono período de Engenharia de Controle e Automação na UFMG.
 - 🎼 Hobbies: Sou apaixonada por música, já fiz um curso básico durante 7 anos. Toco flauta e violão.
 
 <div style="display: flex; align-items: center"><br>
@@ -16,6 +16,8 @@
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Julia-CSS" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Julia-CSharp" height="30" width="40" 
+  src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Julia-MySql" height="30" width="40" 
   src="https://github.com/Julia-deCastro/icons-svg/blob/master/mysql-logo.svg">
   <img align="center" alt="Julia-Postgres" height="30" width="40"
