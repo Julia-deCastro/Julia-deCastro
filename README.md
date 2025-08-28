@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como desenvolvedora full-stack na dti digital.
 - 💼 Trabalho com React, Typescript, .net, C#, SQL Server entre outras tecnologias.
-- 🌱 Curso o nono período de Engenharia de Controle e Automação na UFMG.
+- 🌱 Curso o décimo primeiro período de Engenharia de Controle e Automação na UFMG.
 - 🎼 Hobbies: Sou apaixonada por música, já fiz um curso básico durante 7 anos. Toco flauta e violão.
 
 <div style="display: flex; align-items: center"><br>
